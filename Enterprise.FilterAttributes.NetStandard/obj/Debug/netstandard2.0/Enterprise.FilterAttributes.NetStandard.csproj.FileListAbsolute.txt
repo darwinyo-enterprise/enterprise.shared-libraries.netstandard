@@ -1,0 +1,45 @@
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.csprojResolveAssemblyReference.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.deps.json
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.csprojResolveAssemblyReference.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.AssemblyInfoInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.AssemblyInfo.cs
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.deps.json
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.csprojResolveAssemblyReference.cache
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.AssemblyInfo.cs
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.deps.json
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.AssemblyInfo.cs
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.csprojResolveAssemblyReference.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.deps.json
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\bin\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.csprojResolveAssemblyReference.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.csproj.CoreCompileInputs.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.AssemblyInfoInputs.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.AssemblyInfo.cs
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.FilterAttributes.NetStandard\obj\Debug\netstandard2.0\Enterprise.FilterAttributes.NetStandard.pdb

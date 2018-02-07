@@ -1,0 +1,35 @@
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Models.NetStandard.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Configurations.dll
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Configurations.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.csprojResolveAssemblyReference.cache
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Models.NetStandard.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Comparer.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Configurations.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Configurations.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Comparer.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.csprojResolveAssemblyReference.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Interfaces.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Interfaces.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Models.NetStandard.deps.json
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Models.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Release\netstandard2.0\Enterprise.Models.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.csprojResolveAssemblyReference.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfo.cs
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Release\netstandard2.0\Enterprise.Models.NetStandard.pdb

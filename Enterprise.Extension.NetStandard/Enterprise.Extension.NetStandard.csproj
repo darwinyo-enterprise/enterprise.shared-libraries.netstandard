@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Darwin Yo</Authors>
+    <Company>Enterprise</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="HttpResponseMessageExtension.cs~RF7f72a5.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Configuration Server\Enterprise.ConfigurationServer.DataLayers\Enterprise.ConfigurationServer.DataLayers.csproj" />
+    <ProjectReference Include="..\..\..\E-Commerce\Enterprise.E-Commerce.NetStandard.DataLayers\Enterprise.E-Commerce.NetStandard.DataLayers.csproj" />
+    <ProjectReference Include="..\Enterprise.Constants.NetStandard\Enterprise.Constants.NetStandard.csproj" />
+    <ProjectReference Include="..\Enterprise.Helpers.NetStandard\Enterprise.Helpers.NetStandard.csproj" />
+    <ProjectReference Include="..\Enterprise.Models.NetStandard\Enterprise.Models.NetStandard.csproj" />
+  </ItemGroup>
+
+</Project>

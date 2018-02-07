@@ -1,0 +1,9 @@
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Release\netstandard2.0\Enterprise.Enums.NetStandard.deps.json
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Release\netstandard2.0\Enterprise.Enums.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Release\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Release\netstandard2.0\Enterprise.Enums.NetStandard.csprojResolveAssemblyReference.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Release\netstandard2.0\Enterprise.Enums.NetStandard.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Release\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Release\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfo.cs
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Release\netstandard2.0\Enterprise.Enums.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Release\netstandard2.0\Enterprise.Enums.NetStandard.pdb

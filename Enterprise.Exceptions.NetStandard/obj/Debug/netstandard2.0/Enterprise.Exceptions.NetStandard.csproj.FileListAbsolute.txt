@@ -1,0 +1,74 @@
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.csprojResolveAssemblyReference.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.deps.json
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.csprojResolveAssemblyReference.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.AssemblyInfoInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.AssemblyInfo.cs
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.deps.json
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Terminals.ConfigurationServer.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Terminals.ConfigurationServer.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.AssemblyInfo.cs
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.csprojResolveAssemblyReference.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.AssemblyInfo.cs
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.deps.json
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Terminals.ConfigurationServer.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Terminals.ConfigurationServer.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.deps.json
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.csprojResolveAssemblyReference.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.csproj.CoreCompileInputs.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.AssemblyInfoInputs.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.AssemblyInfo.cs
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Exceptions.NetStandard\obj\Debug\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb

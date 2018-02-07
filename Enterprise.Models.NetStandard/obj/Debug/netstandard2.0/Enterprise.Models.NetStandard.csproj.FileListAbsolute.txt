@@ -1,0 +1,106 @@
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Configurations.dll
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Configurations.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csprojResolveAssemblyReference.cache
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Comparer.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Comparer.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csprojResolveAssemblyReference.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.deps.json
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Comparer.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Comparer.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csprojResolveAssemblyReference.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfoInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfo.cs
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.deps.json
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Comparer.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Comparer.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csprojResolveAssemblyReference.cache
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfo.cs
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Terminals.ConfigurationServer.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Terminals.ConfigurationServer.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csprojResolveAssemblyReference.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfo.cs
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.deps.json
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Comparer.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Terminals.ConfigurationServer.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Comparer.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Terminals.ConfigurationServer.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.deps.json
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Comparer.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Comparer.NetStandard.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.Interfaces.NetStandard.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csprojResolveAssemblyReference.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.csproj.CoreCompileInputs.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfoInputs.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.AssemblyInfo.cs
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Models.NetStandard\obj\Debug\netstandard2.0\Enterprise.Models.NetStandard.pdb

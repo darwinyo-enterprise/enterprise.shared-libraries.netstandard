@@ -1,0 +1,9 @@
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Constants.NetStandard\bin\Release\netstandard2.0\Enterprise.Constants.NetStandard.deps.json
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Constants.NetStandard\bin\Release\netstandard2.0\Enterprise.Constants.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Constants.NetStandard\bin\Release\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Constants.NetStandard\obj\Release\netstandard2.0\Enterprise.Constants.NetStandard.csprojResolveAssemblyReference.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Constants.NetStandard\obj\Release\netstandard2.0\Enterprise.Constants.NetStandard.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Constants.NetStandard\obj\Release\netstandard2.0\Enterprise.Constants.NetStandard.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Constants.NetStandard\obj\Release\netstandard2.0\Enterprise.Constants.NetStandard.AssemblyInfo.cs
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Constants.NetStandard\obj\Release\netstandard2.0\Enterprise.Constants.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Constants.NetStandard\obj\Release\netstandard2.0\Enterprise.Constants.NetStandard.pdb

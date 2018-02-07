@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Darwin Yo</Authors>
+    <Company>Enterprise</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="HttpClientHelper.cs~RF8760bd.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IdentityModel" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Configuration Server\Enterprise.ConfigurationServer.DataLayers\Enterprise.ConfigurationServer.DataLayers.csproj" />
+    <ProjectReference Include="..\Enterprise.Abstract.NetStandard\Enterprise.Abstract.NetStandard.csproj" />
+    <ProjectReference Include="..\Enterprise.Constants.NetStandard\Enterprise.Constants.NetStandard.csproj" />
+    <ProjectReference Include="..\Enterprise.Enums.NetStandard\Enterprise.Enums.NetStandard.csproj" />
+    <ProjectReference Include="..\Enterprise.Models.NetStandard\Enterprise.Models.NetStandard.csproj" />
+  </ItemGroup>
+
+</Project>

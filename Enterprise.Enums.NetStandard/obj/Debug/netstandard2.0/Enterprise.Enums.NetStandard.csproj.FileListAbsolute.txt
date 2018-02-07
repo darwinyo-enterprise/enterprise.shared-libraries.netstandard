@@ -1,0 +1,42 @@
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.deps.json
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfoInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfo.cs
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.deps.json
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfo.cs
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+C:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.deps.json
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfo.cs
+E:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.csprojResolveAssemblyReference.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.deps.json
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\bin\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.csproj.CoreCompileInputs.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfoInputs.cache
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.AssemblyInfo.cs
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.dll
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.pdb
+H:\Projects\Enterprise\Shared Libraries\Net Standard\Enterprise.Enums.NetStandard\obj\Debug\netstandard2.0\Enterprise.Enums.NetStandard.csprojResolveAssemblyReference.cache

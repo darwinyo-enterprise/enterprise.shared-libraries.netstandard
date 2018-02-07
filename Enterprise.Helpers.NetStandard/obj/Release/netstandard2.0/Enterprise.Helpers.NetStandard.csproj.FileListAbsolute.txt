@@ -1,0 +1,10 @@
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Helpers.NetStandard\bin\Release\netstandard2.0\Enterprise.Helpers.NetStandard.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Helpers.NetStandard\bin\Release\netstandard2.0\Enterprise.Helpers.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Helpers.NetStandard\bin\Release\netstandard2.0\Enterprise.Helpers.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Helpers.NetStandard\bin\Release\netstandard2.0\Enterprise.Configurations.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Helpers.NetStandard\bin\Release\netstandard2.0\Enterprise.Configurations.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Helpers.NetStandard\obj\Release\netstandard2.0\Enterprise.Helpers.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Helpers.NetStandard\obj\Release\netstandard2.0\Enterprise.Helpers.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Helpers.NetStandard\obj\Release\netstandard2.0\Enterprise.Helpers.NetStandard.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Helpers.NetStandard\obj\Release\netstandard2.0\Enterprise.Helpers.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Helpers.NetStandard\obj\Release\netstandard2.0\Enterprise.Helpers.NetStandard.pdb

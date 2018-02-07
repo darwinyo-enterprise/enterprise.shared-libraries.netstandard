@@ -1,0 +1,15 @@
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\bin\Release\netstandard2.0\Enterprise.Middlewares.NetStandard.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\bin\Release\netstandard2.0\Enterprise.Middlewares.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\bin\Release\netstandard2.0\Enterprise.Middlewares.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\bin\Release\netstandard2.0\Enterprise.Configurations.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\bin\Release\netstandard2.0\Enterprise.Exceptions.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\bin\Release\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\bin\Release\netstandard2.0\Enterprise.Exceptions.NetStandard.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\bin\Release\netstandard2.0\Enterprise.Configurations.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\bin\Release\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\obj\Release\netstandard2.0\Enterprise.Middlewares.NetStandard.csprojResolveAssemblyReference.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\obj\Release\netstandard2.0\Enterprise.Middlewares.NetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\obj\Release\netstandard2.0\Enterprise.Middlewares.NetStandard.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\obj\Release\netstandard2.0\Enterprise.Middlewares.NetStandard.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\obj\Release\netstandard2.0\Enterprise.Middlewares.NetStandard.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Shared Libraries\Net Standard\Enterprise.Middlewares.NetStandard\obj\Release\netstandard2.0\Enterprise.Middlewares.NetStandard.pdb
